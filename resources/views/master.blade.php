@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Wisatakita</title>
+  <title>Contoh Website</title>
 
   <!-- Bootstrap core CSS -->
   <link href="{{asset('/blog/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
